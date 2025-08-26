@@ -1,0 +1,10 @@
+[project]
+name = "mcp-server-echo"
+version = "0.1.0"
+description = "A MCP server providing an echo tool"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.11.3",
+]
+
