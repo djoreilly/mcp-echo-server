@@ -1,7 +1,8 @@
 # Simple MCP server
 
-container image for testing/debugging
-stdio or HTTP Streamable transport
+Container image for testing/debugging
+
+Stdio or HTTP Streamable transport
 
 Echo server from [FastMCP example](https://github.com/jlowin/fastmcp/blob/main/examples/echo.py)
 Dockerfile from [Astral example](https://github.com/astral-sh/uv-docker-example/blob/main/Dockerfile)
